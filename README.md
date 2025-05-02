@@ -20,7 +20,7 @@ I’m not just watching tutorials—I’m building my own labs, repeating tasks 
 
 ## 🧪 Key Project
 
-### [🛡️ Cybersecurity Lab Series](https://github.com/aviatorsec/cyber-lab-series)
+### [🛡️ Cybersecurity Lab Series](https://github.com/Mauro-BT/Cybersecurity-Lab-Series)
 A collection of self-guided labs where I explore malware analysis, forensics, and log-based alert triage.
 
 Each lab includes:
