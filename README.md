@@ -46,10 +46,9 @@ Some I can set up from scratch. Others I’m still learning to use effectively. 
 
 ## 📅 My Path (So Far)
 
-- ✅ Network+ certified (Feb 2025)
-- 📚 Studying for Security+ (target: June 2025)
-- 🎓 B.S. in Cybersecurity (completing June 2025)
-- 🛠️ SkillBridge placement: SOC / IR role (starting Aug 2025)
+- ✅ Network+ certified (Nov 2024)
+- 📚 Studying for Security+ (target: July 2025)
+- 🎓 B.S. in Cybersecurity (completing July 2025)
 
 ---
 
@@ -58,7 +57,7 @@ Some I can set up from scratch. Others I’m still learning to use effectively. 
 If you're learning too—or hiring someone who’s willing to do the work—I’d love to connect.
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📬 [Email](mailto:your@email.com)
+- 📬 [Email](mauricio.alvarez_career@outlook.com)
 - 📹 YouTube lab walkthroughs – coming soon
 
 ---
