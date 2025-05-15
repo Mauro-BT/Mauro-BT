@@ -56,7 +56,7 @@ Some I can set up from scratch. Others I’m still learning to use effectively. 
 
 If you're learning too—or hiring someone who’s willing to do the work—I’d love to connect.
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](www.linkedin.com/in/mauricio-alvarez-torren-78a927365)
 - 📬 [Email](mauricio.alvarez_career@outlook.com)
 - 📹 YouTube lab walkthroughs – coming soon
 
